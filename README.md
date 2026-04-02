@@ -32,13 +32,13 @@
 
 ## 📊 GitHub Stats
 
-![Utam's GitHub stats](https://github-readme-stats.vercel.app/api?username=JethlojaUtam&show_icons=true&theme=default)
+![Utam's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JethlojaUtam&show_icons=true)
 
 ---
 
 ## 🔥 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JethlojaUtam&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JethlojaUtam&layout=compact)
 
 ---
 
